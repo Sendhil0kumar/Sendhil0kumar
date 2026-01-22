@@ -1,41 +1,51 @@
-# Hi there, I'm Sendhil Kumar S 👋
+👋 Hi, I’m Sendhil Kumar
 
-I am a senior **Learning & Development (L&D) Leader** and **Educator** with over 20 years of strategic experience across both corporate training and academia.
+I work at the intersection of business, analytics, and execution.
 
-[cite_start]My career has been dedicated to building L&D functions, designing training academies, and teaching—from managing NASBA-compliant F&A programs [cite: 12] [cite_start]to serving as an **Associate Professor** in Commerce & Management[cite: 153].
+With 19+ years of domain experience across Finance, HR, and Learning & Development, I now build applied business analytics solutions that focus on decision-making and impact, not just models.
 
-### 🚀 From Educator to Data-Driven Entrepreneur
+My analytics work emphasizes:
 
-I am now channeling this deep corporate experience—and my core passion for **teaching**—into **entrepreneurship**. I am in the ideation and MVP/prototype stage of new ventures, with the goal of building scalable, data-driven educational and business solutions.
+Translating business problems into analytical questions
 
-My projects pinned below are the hands-on application of the technical skills I'm acquiring to build these new platforms.
+Using data to support real decisions
 
----
+Building solutions that stakeholders can actually use
 
-### 🌱 Academic & Entrepreneurial Foundation
+🔍 Focus Areas
 
-To build a strong foundation for my ventures, I am currently pursuing:
+Business & Decision Analytics
 
-* **IIM Calcutta:** Start-Up Readiness Growth and Execution (SURGE) & Entrepreneurship
-* [cite_start]**MSc in Business Analytics** (Pursuing) [cite: 48]
-* [cite_start]**Certified Instructional Design Practitioner** (KPMG) [cite: 47]
+FP&A Analytics & Forecasting
 
----
+Marketing Analytics (Causal / Uplift Modeling)
 
-### 🧠 Core Competencies
+HR & Workforce Analytics
 
-| Category | Details |
-| :--- | :--- |
-| **Startup & Strategy** | Entrepreneurship, Business Analytics, Strategic Planning, Ideation & MVP Development |
-| **Data & Technical** | [cite_start]Python, SQL, AI/ML, Power BI[cite: 43], Financial Analysis, Data-Driven Decision Making |
-| **Leadership & Education** | [cite_start]L&D Strategy, Instructional Design (ADDIE) [cite: 71][cite_start], Academia (Commerce & Management) [cite: 161] |
-| **Domain Expertise** | [cite_start]Finance & Accounting (PTP, OTC, RTR, FP&A) [cite: 23, 85][cite_start], HR Business Partnering (HRBP) [cite: 13, 87] |
+Learning Analytics & Impact Measurement
 
----
+🧰 Tools & Technologies
 
-### 📫 Let's Connect
+Python: Pandas, NumPy, Scikit-learn
 
-| | |
-| :--- | :--- |
-| **LinkedIn** | [linkedin.com/in/sendhil0kumar](https://www.linkedin.com/in/sendhil0kumar) |
-| **Email** | [cite_start][Sendhil0kumar@gmail.com](mailto:Sendhil0kumar@gmail.com) [cite: 3] |
+Machine Learning: XGBoost, Random Forest, Causal Inference
+
+Time Series: Facebook Prophet
+
+Visualization: Power BI, Excel
+
+Data: SQL
+
+📌 Selected Projects
+
+(See pinned repositories below)
+
+Intelligent FP&A Command Center – Automation, forecasting, decision support
+
+Marketing Uplift Modeling – Causal analytics for ROI optimization
+
+HR Attrition & L&D Analytics – Linking learning to retention
+
+📫 Connect
+
+LinkedIn: https://linkedin.com/in/sendhil0kumar
